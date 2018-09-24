@@ -13,3 +13,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- hugo/content/Torq-Components.md
