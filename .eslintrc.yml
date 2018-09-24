@@ -70,7 +70,7 @@ rules:
 
   # Browser compatibility
   compat/compat: error
-
+  
 # Global scoped method and vars
 globals:
   __dirname: true
